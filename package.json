@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JackSnakeMGS4/Basic-Webscraper/issues"
   },
-  "homepage": "https://github.com/JackSnakeMGS4/Basic-Webscraper#readme"
+  "homepage": "https://github.com/JackSnakeMGS4/Basic-Webscraper#readme",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
 }
